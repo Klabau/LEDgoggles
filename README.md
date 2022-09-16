@@ -1,2 +1,0 @@
-# LEDgoggles
-Neopixel LED goggles
